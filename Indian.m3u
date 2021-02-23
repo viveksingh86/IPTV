@@ -154,8 +154,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="Sport" STAR SPORTS 2
 http://panel.myxtreams.com:80/providers2485/84d6f000a4/21525
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="Sport" STAR SPORTS 3
-http://panel.myxtreams.com:80/providers2485/84d6f000a4/21524
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=" " group-title=" Australia ", ABC NATIONAL
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=" " group-title=" Australia ", 7 Sydney
