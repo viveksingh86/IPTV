@@ -21,8 +21,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="INDIA",DD Sports (Opt-2) (New!)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MaPnQ6.png" group-title="INDIA",Desi TV USA
-http://cdn30.liveonlineservices.com/hls/desitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmNK9Kz.png" group-title="INDIA",ET Now (New!)
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M2zAN9M.png" group-title="INDIA",India Today (New!)
