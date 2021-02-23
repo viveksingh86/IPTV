@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="LABEL",~ India TV ~
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="INDIA",~ India TV ~
 http://www.lengua.com/anthems/India.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",Aaj Tak (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",Aaj Tak 
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PB7QMfb.png" group-title="INDIA",Amar Ujala 
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
