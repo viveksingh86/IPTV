@@ -148,55 +148,55 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport" STAR SPORTS 2
 http://panel.myxtreams.com:80/providers2485/84d6f000a4/21525
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", ABC NATIONAL
+#EXTINF:-1 tvg-logo="" group-title="Australia", ABC NATIONAL
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 7 Sydney
+#EXTINF:-1 tvg-logo="" group-title="Australia", 7 Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 7 TWO
+#EXTINF:-1 tvg-logo="" group-title="Australia", 7 TWO
 https://npc.cdn.7livecloud.io/hls/live/SYD2/masterSD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 7 Mate Sydney
+#EXTINF:-1 tvg-logo="" group-title="Australia", 7 Mate Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8	
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 7 Flix
+#EXTINF:-1 tvg-logo="" group-title="Australia", 7 Flix
 https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", Channel 9
+#EXTINF:-1 tvg-logo="" group-title="Australia", Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 9  Gem
+#EXTINF:-1 tvg-logo="" group-title="Australia", 9  Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 9  Go
+#EXTINF:-1 tvg-logo="" group-title="Australia", 9  Go
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 9  Life
+#EXTINF:-1 tvg-logo="" group-title="Australia", 9  Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 9  Rush
+#EXTINF:-1 tvg-logo="" group-title="Australia", 9  Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", Channel 10
+#EXTINF:-1 tvg-logo="" group-title="Australia", Channel 10
 https://live.10play.com.au/10NSW/stream.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 10 Peach
+#EXTINF:-1 tvg-logo="" group-title="Australia", 10 Peach
 https://live.10play.com.au/10PeachNSW/stream.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 10 Bold
+#EXTINF:-1 tvg-logo="" group-title="Australia", 10 Bold
 https://live.10play.com.au/10BoldNSW/stream.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", 10 Shake
+#EXTINF:-1 tvg-logo="" group-title="Australia", 10 Shake
 https://d1nti87v55zvqc.cloudfront.net/out/v1/8a1d942f281143e0b5d1e0b5179fc160/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", SBS One
+#EXTINF:-1 tvg-logo="" group-title="Australia", SBS One
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", SBS Viceland
+#EXTINF:-1 tvg-logo="" group-title="Australia", SBS Viceland
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", SBS World Movies
+#EXTINF:-1 tvg-logo="" group-title="Australia", SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", SBS Food
+#EXTINF:-1 tvg-logo="" group-title="Australia", SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", NITV
+#EXTINF:-1 tvg-logo="" group-title="Australia", NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", Sky 1 HD
+#EXTINF:-1 tvg-logo="" group-title="Australia", Sky 1 HD
 https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky1rw.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", Sky 2 HD
+#EXTINF:-1 tvg-logo="" group-title="Australia", Sky 2 HD
 https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky2rw.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", Sky Watchdog
+#EXTINF:-1 tvg-logo="" group-title="Australia", Sky Watchdog
 https://skylivegrv-i.akamaihd.net/hls/live/780031/skylivegrv/grv_extreme@780031.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", Sky News Extra 1
+#EXTINF:-1 tvg-logo="" group-title="Australia", Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", Sky News Extra 2
+#EXTINF:-1 tvg-logo="" group-title="Australia", Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Australia ", Sky News Extra 3
+#EXTINF:-1 tvg-logo="" group-title="Australia", Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
 
